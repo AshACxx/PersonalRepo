@@ -122,9 +122,18 @@ def overtime(games):
 def main():
     url = "https://cdn.nba.com/static/json/liveData/scoreboard/todaysScoreboard_00.json"
     
+    
+    
+    
     data = fetch_data(url)
+    
     if data is None:
         return
+    
+    import json
+    with open("nba_data.json", "w") as f:
+        json.dump(data, f, indent=2)
+        print(json.dumps(data, indent=2))
     
     game_date, games = get_games(data)
     print("Games today:\n")
@@ -140,8 +149,7 @@ def main():
     df = build_dataframe(game_date, games)
 
     print(df)
-    print("\nFirst few rows:\n")
-    print(df.head())
+
 
     print("\nNumber of games:", len(df))
 
