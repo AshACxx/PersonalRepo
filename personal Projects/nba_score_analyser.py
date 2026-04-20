@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-
+print("hi")
 
 # ---------------------------------
 # 1. Fetch data from API
@@ -15,7 +15,7 @@ def fetch_data(url):
         return None
 
 
-# ---------------------------------
+# ---------------------------------==
 # 2. Extract games + date
 # ---------------------------------
 def get_games(data):
