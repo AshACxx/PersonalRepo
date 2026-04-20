@@ -1,0 +1,12 @@
+[
+  { "timestamp": "2026-02-04T09:00:00Z", "value": 21.4 },
+  { "timestamp": "2026-02-04T09:01:00Z", "value": 21.6 },
+  { "timestamp": "2026-02-04T09:02:00Z", "value": 21.7 },
+  { "timestamp": "2026-02-04T09:03:00Z", "value": 22.1 },
+  { "timestamp": "2026-02-04T09:04:00Z", "value": 22.0 },
+  { "timestamp": "2026-02-04T09:05:00Z", "value": 17.5 },
+  { "timestamp": "2026-02-04T09:06:00Z", "value": 22.3 },
+  { "timestamp": "2026-02-04T09:07:00Z", "value": 22.2 },
+  { "timestamp": "2026-02-04T09:08:00Z", "value": 29.1 },
+  { "timestamp": "2026-02-04T09:09:00Z", "value": 22.4 }
+]

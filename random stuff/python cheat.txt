@@ -1,0 +1,9 @@
+peek()- used to see whos next in a queue
+enqueue()-add to the queue
+dequeue()- remove from the queue
+
+self is a class, but when intilized with the object it becomes associated with the object
+
+grade_list = StudentGradeList()
+
+Self->.grade_list

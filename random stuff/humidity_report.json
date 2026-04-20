@@ -1,0 +1,22 @@
+{
+  "sensor_id": "HUM_001",
+  "total_readings": 60,
+  "statistics": {
+    "mean": 54.90833333333334,
+    "std": 8.78958269139604,
+    "min": 22.0,
+    "max": 78.0
+  },
+  "anomalies": {
+    "count": 3,
+    "values": [
+      25.0,
+      78.0,
+      22.0
+    ]
+  },
+  "dtypes": {
+    "values": "float64",
+    "timestamps": "datetime64[ns]"
+  }
+}

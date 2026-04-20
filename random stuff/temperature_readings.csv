@@ -1,0 +1,11 @@
+timestamp,sensor_id,temperature,unit,quality
+2026-02-03T10:00:00,TEMP_101,22.5,celsius,good
+2026-02-03T10:00:01,TEMP_101,22.6,celsius,good
+2026-02-03T10:00:02,TEMP_101,22.4,celsius,good
+2026-02-03T10:00:03,TEMP_101,22.7,celsius,good
+2026-02-03T10:00:04,TEMP_101,22.3,celsius,good
+2026-02-03T10:00:05,TEMP_101,22.8,celsius,good
+2026-02-03T10:00:06,TEMP_101,22.5,celsius,good
+2026-02-03T10:00:07,TEMP_101,22.6,celsius,good
+2026-02-03T10:00:08,TEMP_101,22.4,celsius,good
+2026-02-03T10:00:09,TEMP_101,22.7,celsius,good

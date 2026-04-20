@@ -1,0 +1,602 @@
+[
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:00Z",
+    "value": 22.25,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:01Z",
+    "value": 21.93,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:02Z",
+    "value": 22.32,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:03Z",
+    "value": 22.76,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:04Z",
+    "value": 21.88,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:05Z",
+    "value": 21.88,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:06Z",
+    "value": 22.79,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:07Z",
+    "value": 22.38,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:08Z",
+    "value": 21.77,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:09Z",
+    "value": 22.27,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:10Z",
+    "value": 15.0,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:11Z",
+    "value": 21.77,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:12Z",
+    "value": 22.12,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:13Z",
+    "value": 21.04,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:14Z",
+    "value": 21.14,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:15Z",
+    "value": 21.72,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:16Z",
+    "value": 21.49,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:17Z",
+    "value": 22.16,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:18Z",
+    "value": 21.55,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:19Z",
+    "value": 21.29,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:20Z",
+    "value": 22.73,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:21Z",
+    "value": 21.89,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:22Z",
+    "value": 22.03,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:23Z",
+    "value": 21.29,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:24Z",
+    "value": 21.73,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:25Z",
+    "value": 32.0,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:26Z",
+    "value": 21.42,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:27Z",
+    "value": 22.19,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:28Z",
+    "value": 21.7,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:29Z",
+    "value": 21.85,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:30Z",
+    "value": 21.7,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:31Z",
+    "value": 22.93,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:32Z",
+    "value": 21.99,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:33Z",
+    "value": 21.47,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:34Z",
+    "value": 22.41,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:35Z",
+    "value": 21.39,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:36Z",
+    "value": 22.1,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:37Z",
+    "value": 21.02,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:38Z",
+    "value": 21.34,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:39Z",
+    "value": 22.1,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:40Z",
+    "value": 22.37,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:41Z",
+    "value": 22.09,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:42Z",
+    "value": 21.94,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:43Z",
+    "value": 21.85,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:44Z",
+    "value": 21.26,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:45Z",
+    "value": 21.64,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:46Z",
+    "value": 21.77,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:47Z",
+    "value": 22.53,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:48Z",
+    "value": 22.17,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:49Z",
+    "value": 21.12,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:50Z",
+    "value": 14.5,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:51Z",
+    "value": 21.81,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:52Z",
+    "value": 21.66,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:53Z",
+    "value": 22.31,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:54Z",
+    "value": 22.52,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:55Z",
+    "value": 22.47,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:56Z",
+    "value": 21.58,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:57Z",
+    "value": 21.85,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:58Z",
+    "value": 22.17,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:00:59Z",
+    "value": 22.49,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:00Z",
+    "value": 21.76,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:01Z",
+    "value": 21.91,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:02Z",
+    "value": 21.45,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:03Z",
+    "value": 21.4,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:04Z",
+    "value": 22.41,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:05Z",
+    "value": 22.68,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:06Z",
+    "value": 21.96,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:07Z",
+    "value": 22.5,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:08Z",
+    "value": 22.18,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:09Z",
+    "value": 21.68,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:10Z",
+    "value": 22.18,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:11Z",
+    "value": 22.77,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:12Z",
+    "value": 21.98,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:13Z",
+    "value": 22.78,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:14Z",
+    "value": 20.69,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:15Z",
+    "value": 33.0,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:16Z",
+    "value": 22.04,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:17Z",
+    "value": 21.85,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:18Z",
+    "value": 22.05,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:19Z",
+    "value": 21.01,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:20Z",
+    "value": 21.89,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:21Z",
+    "value": 22.18,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:22Z",
+    "value": 22.74,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:23Z",
+    "value": 21.74,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:24Z",
+    "value": 21.6,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:25Z",
+    "value": 21.75,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:26Z",
+    "value": 22.46,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:27Z",
+    "value": 22.16,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:28Z",
+    "value": 21.74,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:29Z",
+    "value": 22.26,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:30Z",
+    "value": 16.0,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:31Z",
+    "value": 22.48,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:32Z",
+    "value": 21.65,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:33Z",
+    "value": 21.84,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:34Z",
+    "value": 21.8,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:35Z",
+    "value": 21.27,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:36Z",
+    "value": 22.15,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:37Z",
+    "value": 22.13,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:38Z",
+    "value": 22.0,
+    "unit": "celsius"
+  },
+  {
+    "sensor_id": "TEMP_001",
+    "timestamp": "2024-01-15T10:01:39Z",
+    "value": 21.88,
+    "unit": "celsius"
+  }
+]

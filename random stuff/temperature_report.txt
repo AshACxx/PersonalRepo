@@ -1,0 +1,24 @@
+==================================================
+TEMPERATURE SENSOR ANALYSIS REPORT
+==================================================
+
+SUMMARY STATISTICS
+------------------------------
+Mean Temperature: 17.99�C
+Std Deviation:    5.70�C
+Minimum:          -4.93�C
+Maximum:          28.50�C
+
+DAILY PATTERN
+------------------------------
+Coldest hour: 21:00 (9.7�C)
+Warmest hour: 09:00 (25.9�C)
+
+ANOMALY DETECTION
+------------------------------
+Anomalies found: 1
+Indices: [1282]
+
+TREND ANALYSIS
+------------------------------
+Overall trend: cooling

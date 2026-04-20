@@ -1,0 +1,75 @@
+"""
+Memory Comparison: Python Lists vs NumPy Arrays
+Understanding why NumPy is more memory-efficient for sensor data
+"""
+
+import sys
+import numpy as np
+
+print("=" * 60)
+print("MEMORY COMPARISON: PYTHON LISTS vs NUMPY ARRAYS")
+print("=" * 60)
+
+# --- Small Scale Comparison ---
+print("\n--- Small Scale (10 elements) ---\n")
+
+# Python list of floats
+py_list = [22.5, 23.1, 24.8, 22.9, 25.2, 26.1, 24.5, 23.8, 22.1, 25.5]
+
+# NumPy array of same data
+np_array = np.array(py_list, dtype=np.float64)
+
+# Measure memory
+list_size = sys.getsizeof(py_list)  # Size of list object only
+list_total = list_size + sum(sys.getsizeof(x) for x in py_list)  # Include elements
+
+array_size = np_array.nbytes  # Actual data bytes
+array_total = sys.getsizeof(np_array)  # Total including overhead
+
+print(f"Python list:")
+print(f"  List object size: {list_size} bytes")
+print(f"  Total (with elements): {list_total} bytes")
+print(f"\nNumPy array:")
+print(f"  Data size (nbytes): {array_size} bytes")
+print(f"  Total object size: {array_total} bytes")
+print(f"\nMemory ratio: Python list uses {list_total/array_size:.1f}x more memory")
+
+# --- Sensor Scale Comparison ---
+print("\n--- Sensor Scale (1 million readings) ---\n")
+
+n = 1_000_000
+print(f"Simulating {n:,} sensor readings...")
+
+# Python list
+py_sensor_data = list(range(n))  # Using integers to avoid memory explosion
+py_list_size = sys.getsizeof(py_sensor_data)
+
+# NumPy array
+np_sensor_data = np.arange(n, dtype=np.float64)
+np_array_bytes = np_sensor_data.nbytes
+
+print(f"Python list object: {py_list_size / (1024**2):.2f} MB")
+print(f"NumPy array data:   {np_array_bytes / (1024**2):.2f} MB")
+print(f"\nFor float data, NumPy uses ~{py_list_size * 3 / np_array_bytes:.0f}x less memory!")
+
+# --- Data Type Flexibility ---
+print("\n--- NumPy Data Types for Sensor Data ---\n")
+
+# Different precisions for different needs
+readings = [22.5, 23.1, 24.8, 22.9, 25.2]
+
+types = [
+    ('float16', np.float16),  # Half precision
+    ('float32', np.float32),  # Single precision
+    ('float64', np.float64),  # Double precision (default)
+]
+
+for name, dtype in types:
+    arr = np.array(readings, dtype=dtype)
+    print(f"{name}: {arr.nbytes} bytes ({arr.nbytes//len(readings)} bytes/element)")
+    print(f"  Values: {arr}")
+
+print("\ Tip: float32 often sufficient for temperature data,")
+print("   saving 50% memory vs float64!")
+
+print("\n" + "=" * 60)
